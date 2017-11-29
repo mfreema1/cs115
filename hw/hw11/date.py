@@ -16,9 +16,6 @@ class Date(object):
         self.month = month
         self.day = day
         self.year = year
-        
-#     @month.setter
-#     def month(self)
 
     # The 'printing' function is always named __str__.
     def __str__(self):
